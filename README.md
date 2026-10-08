@@ -52,7 +52,7 @@ AuraAuth isn't just secure—it's designed to feel incredible.
 
 * **Liquid Glassmorphism**: Cards feature translucent, frosted-glass effects floating over a deep midnight-blue space gradient.
 * **60fps Fluidity**: A custom-engineered high-frequency render loop ensures timer rings decrease with buttery-smooth precision—no more choppy, ticking seconds.
-* **Dynamic Color Warnings**: The UI intelligently adapts, fading from standard Blue to an alert Red when a code has less than 10 seconds remaining.
+* **Dynamic Colour Warnings**: The UI intelligently adapts, fading from standard Blue to an alert Red when a code has less than 10 seconds remaining.
 * **Tactile Feedback**: Tapping a code instantly copies it to your clipboard while seamlessly animating the lock icon into a vibrant checkmark confirmation.
 
 ---
@@ -81,20 +81,20 @@ Your secrets belong to you. AuraAuth operates on a strict **Zero-Trust, Zero-Clo
 
 ## 🚀 Getting Started
 
-Since AuraAuth is closed-source, you cannot build the project from this repository.
+Since AuraAuth is currently closed-source, you cannot build the project from this repository.
 
 **Installation:**
-1. Download the latest `.apk` release from the [Releases](https://github.com/RyzerG/AuraAuth/releases) tab.
+1. Download the latest `.apk` release from the [Releases](https://github.com/RyzerG/AuraAuth-Public/releases) tab.
 2. Transfer the file to your Android device.
 3. Open the file and allow installation from unknown sources if prompted.
 4. Launch AuraAuth, tap the **+** button, and scan your first QR code!
 
 **Bug Reports & Feature Requests:**
-Please use the [Issues](https://github.com/RyzerG/AuraAuth/issues) tab to report any bugs or suggest new features.
+Please use the [Issues](https://github.com/RyzerG/AuraAuth-Public/issues) tab to report any bugs or suggest new features.
 
 ---
 
 ## 📜 License
-**Copyright © 2026 Rohan Singh / OverClocked Services. All Rights Reserved.**
+**Copyright © 2026 OverClocked Services. All Rights Reserved.**
 
 This project and its source code are proprietary and closed-source. Unauthorized copying, modification, distribution, or use of this software, via any medium, is strictly prohibited without explicit written permission.
