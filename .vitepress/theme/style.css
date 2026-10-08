@@ -1,0 +1,65 @@
+:root {
+  --vp-c-brand-1: #64b5f6;
+  --vp-c-brand-2: #42a5f5;
+  --vp-c-brand-3: #1e88e5;
+  --vp-c-bg: #020617;
+  --vp-c-bg-alt: #0b0f19;
+  --vp-c-bg-elv: rgba(15, 23, 42, 0.6);
+  --vp-c-text-1: #f8fafc;
+  --vp-c-text-2: #94a3b8;
+}
+
+/* Deep Ambient Gradient Background */
+body {
+  background: 
+    radial-gradient(circle at 10% 20%, rgba(100, 181, 246, 0.12) 0%, transparent 40%),
+    radial-gradient(circle at 85% 80%, rgba(156, 39, 176, 0.10) 0%, transparent 45%),
+    radial-gradient(circle at 50% 50%, rgba(0, 229, 255, 0.05) 0%, transparent 60%),
+    #020617 !important;
+  background-attachment: fixed !important;
+  min-height: 100vh;
+}
+
+/* Frosted Glass Navigation Bar */
+.VPNav {
+  background-color: rgba(2, 6, 23, 0.75) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(24px) saturate(180%) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
+}
+
+/* Frosted Glass Sidebar */
+.VPSidebar {
+  background-color: rgba(2, 6, 23, 0.6) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(24px) saturate(180%) !important;
+  border-right: 1px solid rgba(255, 255, 255, 0.08) !important;
+}
+
+/* Liquid Glass Cards & Feature Tiles */
+.VPFeature, 
+.custom-block, 
+.vp-doc pre,
+.vp-doc table {
+  background: rgba(15, 23, 42, 0.5) !important;
+  backdrop-filter: blur(16px) !important;
+  -webkit-backdrop-filter: blur(16px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  border-radius: 16px !important;
+  transition: border-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
+}
+
+.VPFeature:hover {
+  border-color: rgba(100, 181, 246, 0.4) !important;
+  box-shadow: 0 10px 30px rgba(100, 181, 246, 0.12) !important;
+  transform: translateY(-2px);
+}
+
+/* Accent Links and Highlights */
+.vp-doc a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+.vp-doc a:hover {
+  text-decoration: underline;
+}
