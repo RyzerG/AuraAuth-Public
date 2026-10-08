@@ -1,7 +1,7 @@
 site_name: AuraAuth
 site_description: Next-Gen 2FA Security. Sleek. Secure. Liquid Glass UI.
 theme:
-  name: material
+  name: mkdocs
 
 nav:
   - Home: index.md
