@@ -9,7 +9,6 @@
 [![Security](https://img.shields.io/badge/Security-Fully_Offline-64B5F6?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/RyzerG/AuraAuth)
 
 *A premium, high-performance two-factor authentication (2FA) client built for modern power users.* <br>
-🔗 **Official Repository**: [github.com/RyzerG/AuraAuth](https://github.com/RyzerG/AuraAuth)
 
 <!-- Placeholder for future app screenshots -->
 <!-- <img src="docs/screenshot-list.png" width="250"/> &nbsp; <img src="docs/screenshot-grid.png" width="250"/> &nbsp; <img src="docs/screenshot-hide.png" width="250"/> -->
