@@ -1,6 +1,6 @@
 <div align="center">
 
-# AuraAuth
+# AuraAuth (Coming Soon!)
 **Next-Gen 2FA Security. Sleek. Secure. Liquid Glass UI.**
 
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/RyzerG/AuraAuth)
@@ -83,10 +83,7 @@ Your secrets belong to you. AuraAuth operates on a strict **Zero-Trust, Zero-Clo
 Since AuraAuth is currently closed-source, you cannot build the project from this repository.
 
 **Installation:**
-1. Download the latest `.apk` release from the [Releases](https://github.com/RyzerG/AuraAuth-Public/releases) tab.
-2. Transfer the file to your Android device.
-3. Open the file and allow installation from unknown sources if prompted.
-4. Launch AuraAuth, tap the **+** button, and scan your first QR code!
+Coming Soon for Beta Testing!
 
 **Bug Reports & Feature Requests:**
 Please use the [Issues](https://github.com/RyzerG/AuraAuth-Public/issues) tab to report any bugs or suggest new features.
